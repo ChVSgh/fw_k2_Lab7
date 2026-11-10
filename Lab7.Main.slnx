@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CLassTask1/ClassTask1.csproj" Id="b89ea279-69fb-4358-8c18-fa610cdf4e12" />
+  <Project Path="CLassTask2/ClassTask2.csproj" Id="6c2f9a40-a238-491e-b7c9-af4473cb4e96" />
+  <Project Path="ClassTask3/ClassTask3.csproj" Id="341a692f-2472-4c13-9048-f66c68d84aef" />
+  <Project Path="ClassTask4/ClassTask4.csproj" Id="9a2e2196-1342-4643-92c1-adc97a1f73d0" />
+  <Project Path="Lab7.Main/Lab7.Console.csproj" Id="c8354f15-89c9-4e68-a5d0-38649e2c9086" />
+  <Project Path="Lab7.WInForm/Lab7.WinForm.csproj" Id="5f0a9b48-95fb-4ac7-beec-92f8903cac50" />
+</Solution>
